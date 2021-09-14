@@ -26,9 +26,11 @@ SO THAT I can create a strong password that provides greater security
 
 ## Sample Image:
 
-My project web page: https://bagavathi1411.github.io/portfolioBagavathi/
-
 ![My Project webpage ](assets/images/.png)
+
+## My project web page:
+
+https://bagavathi1411.github.io/passwordGenerator/
 
 # ## License
 
