@@ -26,7 +26,7 @@ SO THAT I can create a strong password that provides greater security
 
 ## Sample Image:
 
-![My Project webpage ](assets/images/.png)
+![My Project webpage ](assets/passwordGenerator.jpg)
 
 ## My project web page:
 
